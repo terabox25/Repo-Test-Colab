@@ -65,37 +65,37 @@ else:
 
 #@markdown <center> <font color=green>✍️ Paste Your Telegram API ID From ≫ my.telegram.org <img src='https://i.ibb.co/BPnZ2xy/Telegram-Api.png' height="40" /> </center> { display-mode: "form" }
 
-API_ID = "15502786"  #@param {type:"string"}
+API_ID = ""  #@param {type:"string"}
 os.environ['API_ID'] = API_ID
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram API HASH From ≫ my.telegram.org <img src='https://i.ibb.co/BPnZ2xy/Telegram-Api.png' height="40" /> </center> { display-mode: "form" }
 
-API_HASH = "bb32e00647b1bfe66e6cd298a2c66a5a"  #@param {type:"string"}
+API_HASH = ""  #@param {type:"string"}
 os.environ['API_HASH'] = API_HASH
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram BOT TOKEN From ≫ @BotFather <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
 
-BOT_TOKEN = "5725026746:AAEdc1JgPoD_Pkgti_PQGdZJ0WqyCKGYrFk"  #@param {type:"string"}
+BOT_TOKEN = ""  #@param {type:"string"}
 os.environ['BOT_TOKEN'] = BOT_TOKEN
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram OWNER ID  From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
 
 
-OWNER_ID = "5018200809"  #@param {type:"string"}
+OWNER_ID = ""  #@param {type:"string"}
 os.environ['OWNER_ID'] = OWNER_ID
 
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
 
 
-LOG_CHANNEL = "-1002155664087"  #@param {type:"string"}
+LOG_CHANNEL = ""  #@param {type:"string"}
 os.environ['LOG_CHANNEL'] = LOG_CHANNEL
 
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
 
 
-DATABASE_URL = "mongodb+srv://latestkoreandraama:HkX8UWUrh4mTNcAm@cluster0.nnnuejc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  #@param {type:"string"}
+DATABASE_URL = ""  #@param {type:"string"}
 os.environ['DATABASE_URL'] = DATABASE_URL
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
