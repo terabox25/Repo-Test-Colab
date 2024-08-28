@@ -52,15 +52,6 @@ print("All requirements installed successfully!")
 
 clear_output()
 
-#@markdown <font color=ORANGE>🎥 Install FFMPEG? 🎥
-install_ffmpeg = "No"  #@param ["Yes", "No"]
-if install_ffmpeg == "Yes":
-    print("Installing FFMPEG...")
-    os.system("apt-get install ffmpeg -qq")  # Install ffmpeg quietly
-    print("FFMPEG installed successfully!")
-else:
-    print("Skipping FFMPEG installation.")
-
 #@markdown ### <font color=ORANGE>🔧 Environment Variables 🔧
 
 #@markdown <center> <font color=green>✍️ Paste Your Telegram API ID From ≫ my.telegram.org <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
