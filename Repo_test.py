@@ -2,7 +2,7 @@ import os
 import shutil
 from IPython.display import clear_output
 
-#@title <h1><B><font color=red>𝗥𝗲𝗽𝗼 𝗧𝗲𝘀𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗚𝗼𝗼𝗴𝗹𝗲  <img src='https://i.ibb.co/BPnZ2xy/Telegram-Api.png' height="40" /> </center> { display-mode: "form" }
+#@title <h1><B><font color=red>𝗥𝗲𝗽𝗼 𝗧𝗲𝘀𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗚𝗼𝗼𝗴𝗹𝗲  <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 # @markdown <div><center><a href="https://github.com/SudoR2spr/text-leech-bot/graphs/contributors"><img height="200"  src="https://opengraph.githubassets.com/niszjzjrdlws31z4hurrzabavate8t0g/SudoR2spr/text-leech-bot"></center></div>
 # @markdown <br><center><h2><strong><font color=red>🔗 𝗥𝗲𝗽𝗼 𝗧𝗲𝘀𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗚𝗼𝗼𝗴𝗹𝗲  🔗</strong></h2></center>
 
@@ -63,48 +63,48 @@ else:
 
 #@markdown ### <font color=ORANGE>🔧 Environment Variables 🔧
 
-#@markdown <center> <font color=green>✍️ Paste Your Telegram API ID From ≫ my.telegram.org <img src='https://i.ibb.co/BPnZ2xy/Telegram-Api.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> <font color=green>✍️ Paste Your Telegram API ID From ≫ my.telegram.org <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 API_ID = ""  #@param {type:"string"}
 os.environ['API_ID'] = API_ID
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram API HASH From ≫ my.telegram.org <img src='https://i.ibb.co/BPnZ2xy/Telegram-Api.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram API HASH From ≫ my.telegram.org <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 API_HASH = ""  #@param {type:"string"}
 os.environ['API_HASH'] = API_HASH
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram BOT TOKEN From ≫ @BotFather <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram BOT TOKEN From ≫ @BotFather <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 BOT_TOKEN = ""  #@param {type:"string"}
 os.environ['BOT_TOKEN'] = BOT_TOKEN
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram OWNER ID  From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram OWNER ID  From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 OWNER_ID = ""  #@param {type:"string"}
 os.environ['OWNER_ID'] = OWNER_ID
 
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 LOG_CHANNEL = ""  #@param {type:"string"}
 os.environ['LOG_CHANNEL'] = LOG_CHANNEL
 
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 DATABASE_URL = ""  #@param {type:"string"}
 os.environ['DATABASE_URL'] = DATABASE_URL
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 URL = "vipurl.in"  #@param {type:"string"}
 os.environ['URL'] = URL
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/Fw8McpS/Telegram-Bot-token.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 API = "b804a4eadf0a6b8171b7d3ef0ff64c675436b493"  #@param {type:"string"}
