@@ -83,19 +83,19 @@ LOG_CHANNEL = ""  #@param {type:"string"}
 os.environ['LOG_CHANNEL'] = LOG_CHANNEL
 
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ www.mongodb.com <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 DATABASE_URL = ""  #@param {type:"string"}
 os.environ['DATABASE_URL'] = DATABASE_URL
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ your shortlink website  <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 URL = "vipurl.in"  #@param {type:"string"}
 os.environ['URL'] = URL
 
-#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
+#@markdown <center> </font> <font color=green>✍️ Paste Your Telegram log Channel   From ≫ your shortlink website <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
 
 API = "b804a4eadf0a6b8171b7d3ef0ff64c675436b493"  #@param {type:"string"}
