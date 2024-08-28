@@ -2,9 +2,9 @@ import os
 import shutil
 from IPython.display import clear_output
 
-#@title <h1><B><font color=red>𝗧𝗘𝗫𝗧-𝗟𝗘𝗘𝗖𝗛-𝗕𝗢𝗧 <img src='https://i.ibb.co/BPnZ2xy/Telegram-Api.png' height="40" /> </center> { display-mode: "form" }
+#@title <h1><B><font color=red>𝗥𝗲𝗽𝗼 𝗧𝗲𝘀𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗚𝗼𝗼𝗴𝗹𝗲  <img src='https://i.ibb.co/BPnZ2xy/Telegram-Api.png' height="40" /> </center> { display-mode: "form" }
 # @markdown <div><center><a href="https://github.com/SudoR2spr/text-leech-bot/graphs/contributors"><img height="200"  src="https://opengraph.githubassets.com/niszjzjrdlws31z4hurrzabavate8t0g/SudoR2spr/text-leech-bot"></center></div>
-# @markdown <br><center><h2><strong><font color=red>🔗 𝗧𝗘𝗫𝗧-𝗟𝗘𝗘𝗖𝗛-𝗕𝗢𝗧 🔗</strong></h2></center>
+# @markdown <br><center><h2><strong><font color=red>🔗 𝗥𝗲𝗽𝗼 𝗧𝗲𝘀𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗚𝗼𝗼𝗴𝗹𝗲  🔗</strong></h2></center>
 
 
 #@markdown <font color=ORANGE>🔗 Please enter the GitHub repository URL: 🔗
