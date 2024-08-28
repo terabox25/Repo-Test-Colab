@@ -3,7 +3,7 @@ import shutil
 from IPython.display import clear_output
 
 #@title <h1><B><font color=red>𝗥𝗲𝗽𝗼 𝗧𝗲𝘀𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗚𝗼𝗼𝗴𝗹𝗲  <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
-# @markdown <div><center><a href="https://github.com/SudoR2spr/text-leech-bot/graphs/contributors"><img height="200"  src="https://opengraph.githubassets.com/niszjzjrdlws31z4hurrzabavate8t0g/SudoR2spr/text-leech-bot"></center></div>
+# @markdown <div><center><a href="https://github.com/terabox25/Repo-Test-Colab/graphs/contributors"><img height="200"  src="https://opengraph.githubassets.com/niszjzjrdlws31z4hurrzabavate8t0g/terabox25/Repo-Test-Colab"></center></div>
 # @markdown <br><center><h2><strong><font color=red>🔗 𝗥𝗲𝗽𝗼 𝗧𝗲𝘀𝘁 𝗛𝗼𝘄 𝗧𝗼 𝗚𝗼𝗼𝗴𝗹𝗲  🔗</strong></h2></center>
 
 
