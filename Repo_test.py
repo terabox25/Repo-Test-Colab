@@ -56,17 +56,17 @@ clear_output()
 
 #@markdown <center> <font color=green>✍️ Paste Your Telegram API ID From ≫ my.telegram.org <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
-API_ID = "15502786"  #@param {type:"string"}
+API_ID = ""  #@param {type:"string"}
 os.environ['API_ID'] = API_ID
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram API HASH From ≫ my.telegram.org <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
-API_HASH = "bb32e00647b1bfe66e6cd298a2c66a5a"  #@param {type:"string"}
+API_HASH = ""  #@param {type:"string"}
 os.environ['API_HASH'] = API_HASH
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram BOT TOKEN From ≫ @BotFather <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
 
-BOT_TOKEN = "5645711998:AAE8oAHzKi07iqcydKPnuFjzknlVa2MxxUQ"  #@param {type:"string"}
+BOT_TOKEN = ""  #@param {type:"string"}
 os.environ['BOT_TOKEN'] = BOT_TOKEN
 
 #@markdown <center> </font> <font color=green>✍️ Paste Your Telegram OWNER ID  From ≫ @id_bot <img src='https://i.ibb.co/ZLbRGmT/Picsart-24-02-16-14-30-48-873.png' height="40" /> </center> { display-mode: "form" }
